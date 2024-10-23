@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persona>
+    <nombre>Juan</nombre>
+    <edad>30</edad>
+    <correo>juan@example.com</correo>
+    <direccion>
+        <calle>Calle Principal</calle>
+        <ciudad>Madrid</ciudad>
+        <pais>España</pais>
+    </direccion>
+    <telefonos>
+        <telefono tipo="casa">555-555-1234</telefono>
+        <telefono tipo="movil">555-555-5678</telefono>
+    </telefonos>
+    <activo>true</activo>
+    <fecha_registro>2024-10-22</fecha_registro>
+</persona>
